@@ -1,0 +1,16 @@
+{
+  "name": "codecamp-free-crud-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.3"
+  }
+}
